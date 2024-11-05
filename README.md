@@ -1,29 +1,15 @@
 # Click Me
 
-This template should help get you started developing with Vue 3 in Vite.
+A fun, interactive web app created with Vue.js Composition API. The app features animated clouds, playful buttons, and a surprise confetti effect, with a seamless transition to another app on a successful interaction.
 
-## Recommended IDE Setup
+## Main Page
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+The initial view of the app with animated clouds in the background.
+![photo](./src/assets/readme/main_page-1.jpg)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Page after No button click 
+![photo](./src/assets/readme/main_page-2.jpg)
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Page after Yes button click 
+![photo](./src/assets/readme/main_page-3.jpg)
